@@ -15,4 +15,4 @@ if temperature_diff < 5
     require_time = 60
 end 
 
-p req
+p rquire_time
